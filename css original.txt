@@ -1,0 +1,51 @@
+
+*
+{
+
+	margin: -10;
+	padding: -10;
+}
+#particles-js
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image.jpg) ;
+	height:100vh;
+	width: 128%;
+	background-size: auto;
+	
+	
+
+}
+
+.logo
+{
+	margin-top: -100px;
+	margin-width: 150px;
+	front-size :28px;
+	text-transform: uppercase;
+
+}
+
+.welcome
+{
+	margin-left: 0%;
+	position: absolute;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+.welcome h1
+{
+	margin-top: 5%;
+	letter-spacing: 2px;
+	font-size: 42px;
+	text-transform:uppercase;
+}
+
+.welcome p
+
+{
+  	font-size: 16px;
+	margin-top: 25px;
+	font-family: monospace;
+
+}
